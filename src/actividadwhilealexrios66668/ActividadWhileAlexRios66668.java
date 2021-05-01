@@ -101,7 +101,7 @@ public class ActividadWhileAlexRios66668 {
 
     public static void main(String[] args) {
         
-        System.out.println("Para ver cada una de las actividades");
+        System.out.println("Para ver cada una de las actividades ingresa un numero entre el 1 y el 3");
         
         int v1 = 0;
         System.out.print("Ingresa el numero de la actividad: ");
