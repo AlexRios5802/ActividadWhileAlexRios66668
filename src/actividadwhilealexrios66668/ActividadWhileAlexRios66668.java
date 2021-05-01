@@ -70,7 +70,7 @@ public class ActividadWhileAlexRios66668 {
         
         int promedio = suma / 2;
         
-        System.out.println("Tu el promedio es: " + promedio);
+        System.out.println("Promedio es: " + promedio);
         
         if (valor2 > valor3) {
             System.out.println(valor2 + " es mayor que " + valor3);
